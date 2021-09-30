@@ -1,0 +1,9 @@
+{
+    "catalogs": {},
+    "aliases": {
+      "jmolecules-example": {
+        "script-ref": "https://github.com/archifacts/archifacts/blob/main/jbang-examples/JMoleculesSpringDataJPAExample.java"
+      }
+    },
+    "templates": {}
+  }
